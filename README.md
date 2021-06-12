@@ -7,8 +7,11 @@
 ##### The project includes 3 services and master
 
 1 - Master service > Route the requests to the correct service
+
 2 - Users service
+
 3 - Products service
+
 4 - Orders service
 
 #### Featured libraries I used
